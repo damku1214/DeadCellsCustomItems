@@ -1,0 +1,8 @@
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\obj\Debug\net462\DeadCellsCustomitems.csproj.AssemblyReference.cache
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\obj\Debug\net462\MyPluginInfo.cs
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\obj\Debug\net462\DeadCellsCustomitems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\obj\Debug\net462\DeadCellsCustomitems.AssemblyInfoInputs.cache
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\obj\Debug\net462\DeadCellsCustomitems.AssemblyInfo.cs
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\obj\Debug\net462\DeadCellsCustomitems.csproj.CoreCompileInputs.cache
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\bin\Debug\net462\DeadCellsCustomItems.dll
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\obj\Debug\net462\DeadCellsCustomItems.dll

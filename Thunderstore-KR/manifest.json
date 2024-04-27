@@ -1,0 +1,9 @@
+{
+    "name": "DeadCellsCustomItems_KR",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/damku1214/DeadCellsCustomItems",
+    "description": "게임 데드셀에서 나온 아이템들을 스컬: 더 히어로 슬레이어에 추가합니다!",
+    "dependencies": [
+        "BepInEx-BepInExPack_Skul-5.4.2100"
+    ]
+}

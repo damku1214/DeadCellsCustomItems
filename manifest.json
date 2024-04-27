@@ -1,0 +1,7 @@
+{
+    "name": "DeadCellsCustomItems",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/damku1214/DeadCellsCustomItems",
+    "description": "Adds new items from the game Dead Cells to Skul: the Hero Slayer!",
+    "dependencies": []
+}

@@ -1,0 +1,46 @@
+C:\Users\kukeu\Desktop\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.AssemblyReference.cache
+C:\Users\kukeu\Desktop\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\MyPluginInfo.cs
+C:\Users\kukeu\Desktop\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukeu\Desktop\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfoInputs.cache
+C:\Users\kukeu\Desktop\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfo.cs
+C:\Users\kukeu\Desktop\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Skul\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Skul\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\MyPluginInfo.cs
+D:\SteamLibrary\steamapps\common\Skul\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\Skul\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\Skul\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\Skul\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Skul\Skul_Data\Managed\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Skul\Skul_Data\Managed\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\MyPluginInfo.cs
+D:\SteamLibrary\steamapps\common\Skul\Skul_Data\Managed\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\Skul\Skul_Data\Managed\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\Skul\Skul_Data\Managed\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\Skul\Skul_Data\Managed\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\MyPluginInfo.cs
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\CustomItems\obj\Debug\net462\CustomItems.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\CustomItems\obj\Debug\net462\MyPluginInfo.cs
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\CustomItems\obj\Debug\net462\CustomItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\Skul\2020.3.34\CustomItems\obj\Debug\net462\CustomItems.csproj.CoreCompileInputs.cache
+D:\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.AssemblyReference.cache
+D:\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\MyPluginInfo.cs
+D:\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfoInputs.cache
+D:\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfo.cs
+D:\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.csproj.CoreCompileInputs.cache
+C:\Users\kukeu\Desktop\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\bin\Debug\net462\CustomItems.dll
+C:\Users\kukeu\Desktop\SkulHardModeMods-HardModeModPack-v0.0.6\CustomItems\obj\Debug\net462\CustomItems.dll
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\CustomItems\bin\Debug\net462\CustomItems.dll
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\CustomItems\obj\Debug\net462\CustomItems.csproj.AssemblyReference.cache
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\CustomItems\obj\Debug\net462\MyPluginInfo.cs
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\CustomItems\obj\Debug\net462\CustomItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfoInputs.cache
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\CustomItems\obj\Debug\net462\CustomItems.AssemblyInfo.cs
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\CustomItems\obj\Debug\net462\CustomItems.csproj.CoreCompileInputs.cache
+C:\Users\kukeu\Desktop\Stuff\Skul Mods\DeadCellsCustomItems\CustomItems\obj\Debug\net462\CustomItems.dll
